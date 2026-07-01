@@ -15,7 +15,6 @@ const int N = 105;
 int n, W;
 ll w[N], v[N], m[N];
 
-//code khon giai so - code ngu giai hui
 int main()
 {
     ios::sync_with_stdio(false); cin.tie(nullptr);

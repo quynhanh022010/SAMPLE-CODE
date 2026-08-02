@@ -1,3 +1,5 @@
+//source: b3 stocs day2 round 6
+
 #include<bits/stdc++.h>
 #define fors(i, a, b, c) for (int i=(a); i<=(b); i+=(c))
 #define ford(i, a, b, c) for (int i=(a); i>=(b); i-=(c))
